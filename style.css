@@ -21,8 +21,7 @@
         font-family: sans-serif;
         font-size: 22px;
         border-radius: 100px;
-        top: 240px;
-        left: 55px;
+        margin: 0px auto;
         border: 1px solid rgb(0, 0, 0);
         transition: 0.5s;
     }
